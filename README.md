@@ -10,6 +10,6 @@ $ shotgun -p 4567 (si gem shotgun installée)
 
 
 Gem requises : 
-- gem 'sinatra's
+- gem 'sinatra'
 - gem 'csv'
 - gem 'pry'
